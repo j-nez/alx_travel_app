@@ -14,7 +14,6 @@ djangorestframework==3.16.1
 drf-yasg==1.21.10
 inflection==0.5.1
 kombu==5.5.4
-mysqlclient==2.2.7
 packaging==25.0
 prompt_toolkit==3.0.52
 python-dateutil==2.9.0.post0
