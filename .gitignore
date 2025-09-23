@@ -16,6 +16,7 @@ ENV/
 env/
 .venv/
 
+
 # Django stuff
 *.log
 *.pot
@@ -39,8 +40,6 @@ static/
 .DS_Store
 Thumbs.db
 
-# Environment variables
-.env
 
 # Celery & task queues
 celerybeat-schedule
