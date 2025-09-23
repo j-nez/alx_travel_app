@@ -1,0 +1,71 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+
+# Django stuff
+*.log
+*.pot
+*.pyc
+db.sqlite3
+media/
+staticfiles/
+static/
+
+# Django migrations (optional to ignore auto-generated migrations, but usually keep them in Git)
+# */migrations/*.py
+# !*/migrations/__init__.py
+
+# VS Code / IDE configs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# Celery & task queues
+celerybeat-schedule
+celerybeat.pid
+
+# Coverage / testing
+htmlcov/
+.tox/
+.coverage
+.cache
+.pytest_cache/
+nosetests.xml
+coverage.xml
+
+# Pip
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Swagger / API docs cache
+*.json
+*.yaml
+
+# Environment variables
+.env
+*.env
